@@ -1,4 +1,4 @@
-Установка Python 3..10.4
+Установка Python 2.25.1
 Установка библиотек из requirements.txt
 Заменить токен на свой в data/config.py
 Запуск бота main.py -> python3 main.py
